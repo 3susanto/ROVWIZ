@@ -1,0 +1,9 @@
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/aes.c:399:13:aes_gen_tables	12
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/aes.c:513:6:mbedtls_aes_init	1
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/aes.c:520:6:mbedtls_aes_free	2
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/aes.c:551:5:mbedtls_aes_setkey_enc	14
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/aes.c:667:5:mbedtls_aes_setkey_dec	4
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/aes.c:864:5:mbedtls_internal_aes_encrypt	2
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/aes.c:928:5:mbedtls_internal_aes_decrypt	2
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/aes.c:991:5:mbedtls_aes_crypt_ecb	2
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/aes.c:1029:5:mbedtls_aes_crypt_cbc	7

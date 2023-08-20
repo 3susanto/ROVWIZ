@@ -1,0 +1,17 @@
+C:/Users/surovotic/Downloads/W5300-TOE-C-main-rov/Projects/NUCLEO-F722ZE/Core/Src/main.c:152:1:__io_putchar	1
+C:/Users/surovotic/Downloads/W5300-TOE-C-main-rov/Projects/NUCLEO-F722ZE/Core/Src/main.c:166:6:print_network_information	1
+C:/Users/surovotic/Downloads/W5300-TOE-C-main-rov/Projects/NUCLEO-F722ZE/Core/Src/main.c:177:6:make_json_dio	1
+C:/Users/surovotic/Downloads/W5300-TOE-C-main-rov/Projects/NUCLEO-F722ZE/Core/Src/main.c:193:6:make_json_ain	1
+C:/Users/surovotic/Downloads/W5300-TOE-C-main-rov/Projects/NUCLEO-F722ZE/Core/Src/main.c:204:6:make_json_netinfo	1
+C:/Users/surovotic/Downloads/W5300-TOE-C-main-rov/Projects/NUCLEO-F722ZE/Core/Src/main.c:227:9:predefined_get_cgi_processor	10
+C:/Users/surovotic/Downloads/W5300-TOE-C-main-rov/Projects/NUCLEO-F722ZE/Core/Src/main.c:285:8:set_diodir	6
+C:/Users/surovotic/Downloads/W5300-TOE-C-main-rov/Projects/NUCLEO-F722ZE/Core/Src/main.c:323:8:set_diostate	14
+C:/Users/surovotic/Downloads/W5300-TOE-C-main-rov/Projects/NUCLEO-F722ZE/Core/Src/main.c:415:9:predefined_set_cgi_processor	4
+C:/Users/surovotic/Downloads/W5300-TOE-C-main-rov/Projects/NUCLEO-F722ZE/Core/Src/main.c:465:5:main	2
+C:/Users/surovotic/Downloads/W5300-TOE-C-main-rov/Projects/NUCLEO-F722ZE/Core/Src/main.c:625:6:SystemClock_Config	4
+C:/Users/surovotic/Downloads/W5300-TOE-C-main-rov/Projects/NUCLEO-F722ZE/Core/Src/main.c:682:13:MX_ADC1_Init	3
+C:/Users/surovotic/Downloads/W5300-TOE-C-main-rov/Projects/NUCLEO-F722ZE/Core/Src/main.c:734:13:MX_TIM2_Init	8
+C:/Users/surovotic/Downloads/W5300-TOE-C-main-rov/Projects/NUCLEO-F722ZE/Core/Src/main.c:801:13:MX_USART3_UART_Init	2
+C:/Users/surovotic/Downloads/W5300-TOE-C-main-rov/Projects/NUCLEO-F722ZE/Core/Src/main.c:832:13:MX_FMC_Init	3
+C:/Users/surovotic/Downloads/W5300-TOE-C-main-rov/Projects/NUCLEO-F722ZE/Core/Src/main.c:902:13:MX_GPIO_Init	1
+C:/Users/surovotic/Downloads/W5300-TOE-C-main-rov/Projects/NUCLEO-F722ZE/Core/Src/main.c:963:6:Error_Handler	1

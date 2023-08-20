@@ -1,0 +1,10 @@
+../Application/User/Core/httpClient.c:38:9:httpc_init	2
+../Application/User/Core/httpClient.c:67:9:httpc_connection_handler	8
+../Application/User/Core/httpClient.c:141:9:httpc_connect	4
+../Application/User/Core/httpClient.c:158:10:httpc_add_customHeader_field	3
+../Application/User/Core/httpClient.c:177:10:httpc_send_header	6
+../Application/User/Core/httpClient.c:233:10:httpc_send_body	5
+../Application/User/Core/httpClient.c:266:10:httpc_send	8
+../Application/User/Core/httpClient.c:333:10:httpc_recv	3
+../Application/User/Core/httpClient.c:352:9:httpc_disconnect	3
+../Application/User/Core/httpClient.c:376:10:get_httpc_any_port	5

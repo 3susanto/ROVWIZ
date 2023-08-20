@@ -1,0 +1,15 @@
+../../../../Libraries/mbedtls/include/mbedtls/pk.h:207:36:mbedtls_pk_rsa	16	static
+../../../../Libraries/mbedtls/include/mbedtls/pk.h:220:36:mbedtls_pk_ec	16	static
+../../../../Libraries/mbedtls/include/mbedtls/error.h:152:19:mbedtls_error_add	24	static
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/pkparse.c:184:12:pk_get_ecparams	32	static
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/pkparse.c:457:12:pk_use_ecparams	24	static
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/pkparse.c:496:12:pk_get_ecpubkey	40	static
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/pkparse.c:523:12:pk_get_rsapubkey	64	static
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/pkparse.c:578:12:pk_get_pk_alg	40	static
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/pkparse.c:611:5:mbedtls_pk_parse_subpubkey	56	static
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/pkparse.c:686:12:asn1_get_nonzero_mpi	32	static
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/pkparse.c:705:12:pk_parse_key_pkcs1_der	64	static
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/pkparse.c:862:12:pk_parse_key_sec1_der	80	static
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/pkparse.c:1000:12:pk_parse_key_pkcs8_unencrypted_der	72	static
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/pkparse.c:1205:5:mbedtls_pk_parse_key	64	static
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/pkparse.c:1422:5:mbedtls_pk_parse_public_key	80	static

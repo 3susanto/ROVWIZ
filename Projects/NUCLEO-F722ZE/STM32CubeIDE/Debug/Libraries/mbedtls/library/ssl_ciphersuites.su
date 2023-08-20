@@ -1,0 +1,9 @@
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/ssl_ciphersuites.c:1916:12:ciphersuite_is_removed	16	static
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/ssl_ciphersuites.c:1923:12:mbedtls_ssl_list_ciphersuites	24	static
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/ssl_ciphersuites.c:1954:34:mbedtls_ssl_ciphersuite_from_string	24	static
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/ssl_ciphersuites.c:1973:34:mbedtls_ssl_ciphersuite_from_id	24	static
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/ssl_ciphersuites.c:1988:13:mbedtls_ssl_get_ciphersuite_name	24	static
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/ssl_ciphersuites.c:2000:5:mbedtls_ssl_get_ciphersuite_id	24	static
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/ssl_ciphersuites.c:2013:19:mbedtls_ssl_get_ciphersuite_sig_pk_alg	16	static
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/ssl_ciphersuites.c:2035:19:mbedtls_ssl_get_ciphersuite_sig_alg	16	static
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/ssl_ciphersuites.c:2056:5:mbedtls_ssl_ciphersuite_uses_ec	16	static

@@ -1,0 +1,8 @@
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/sha256.c:76:6:mbedtls_sha256_init	1
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/sha256.c:83:6:mbedtls_sha256_free	2
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/sha256.c:91:6:mbedtls_sha256_clone	1
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/sha256.c:103:5:mbedtls_sha256_starts	2
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/sha256.c:195:5:mbedtls_internal_sha256_process	6
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/sha256.c:288:5:mbedtls_sha256_update	9
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/sha256.c:341:5:mbedtls_sha256_finish	5
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/sha256.c:411:5:mbedtls_sha256	3

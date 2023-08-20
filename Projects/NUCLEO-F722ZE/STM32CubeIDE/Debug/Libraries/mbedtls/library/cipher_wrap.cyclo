@@ -1,0 +1,9 @@
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/cipher_wrap.c:81:14:gcm_ctx_alloc	2
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/cipher_wrap.c:91:13:gcm_ctx_free	1
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/cipher_wrap.c:119:12:aes_crypt_ecb_wrap	1
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/cipher_wrap.c:126:12:aes_crypt_cbc_wrap	1
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/cipher_wrap.c:190:12:aes_setkey_dec_wrap	1
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/cipher_wrap.c:196:12:aes_setkey_enc_wrap	1
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/cipher_wrap.c:202:15:aes_ctx_alloc	2
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/cipher_wrap.c:214:13:aes_ctx_free	1
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/cipher_wrap.c:507:12:gcm_aes_setkey_wrap	1

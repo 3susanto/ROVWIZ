@@ -1,0 +1,10 @@
+../Application/User/Core/httpClient.c:38:9:httpc_init	32	static
+../Application/User/Core/httpClient.c:67:9:httpc_connection_handler	40	static
+../Application/User/Core/httpClient.c:141:9:httpc_connect	16	static
+../Application/User/Core/httpClient.c:158:10:httpc_add_customHeader_field	48	static
+../Application/User/Core/httpClient.c:177:10:httpc_send_header	32	static
+../Application/User/Core/httpClient.c:233:10:httpc_send_body	24	static
+../Application/User/Core/httpClient.c:266:10:httpc_send	32	static
+../Application/User/Core/httpClient.c:333:10:httpc_recv	24	static
+../Application/User/Core/httpClient.c:352:9:httpc_disconnect	16	static
+../Application/User/Core/httpClient.c:376:10:get_httpc_any_port	8	static

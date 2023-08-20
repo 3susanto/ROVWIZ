@@ -1,0 +1,13 @@
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/gcm.c:87:6:mbedtls_gcm_init	1
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/gcm.c:101:12:gcm_gen_table	5
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/gcm.c:161:5:mbedtls_gcm_setkey	6
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/gcm.c:215:13:gcm_mult	3
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/gcm.c:271:5:mbedtls_gcm_starts	8
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/gcm.c:352:5:mbedtls_gcm_update_ad	10
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/gcm.c:407:13:gcm_incr	3
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/gcm.c:417:12:gcm_mask	5
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/gcm.c:445:5:mbedtls_gcm_update	17
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/gcm.c:533:5:mbedtls_gcm_finish	10
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/gcm.c:589:5:mbedtls_gcm_crypt_and_tag	5
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/gcm.c:627:5:mbedtls_gcm_auth_decrypt	4
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/gcm.c:670:6:mbedtls_gcm_free	2

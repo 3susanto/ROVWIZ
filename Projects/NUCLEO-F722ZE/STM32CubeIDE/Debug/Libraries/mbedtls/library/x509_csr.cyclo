@@ -1,0 +1,7 @@
+../../../../Libraries/mbedtls/include/mbedtls/error.h:152:19:mbedtls_error_add	1
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/x509_csr.c:62:12:x509_csr_get_version	3
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/x509_csr.c:85:5:mbedtls_x509_csr_parse_der	18
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/x509_csr.c:257:5:mbedtls_x509_csr_parse	8
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/x509_csr.c:332:5:mbedtls_x509_csr_info	14
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/x509_csr.c:376:6:mbedtls_x509_csr_init	1
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Libraries/mbedtls/library/x509_csr.c:384:6:mbedtls_x509_csr_free	4

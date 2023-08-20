@@ -1,0 +1,4 @@
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Examples/tcp_client_over_ssl/w5x00_tcp_client_over_ssl.c:59:12:ssl_random_callback	3
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Examples/tcp_client_over_ssl/w5x00_tcp_client_over_ssl.c:78:12:recv_timeout	3
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Examples/tcp_client_over_ssl/w5x00_tcp_client_over_ssl.c:96:12:wizchip_ssl_init	3
+C:/Users/surovotic/Downloads/W5300-TOE-C-main/Examples/tcp_client_over_ssl/w5x00_tcp_client_over_ssl.c:133:6:tcp_client_over_ssl_demo	16
